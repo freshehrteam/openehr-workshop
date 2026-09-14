@@ -1,4 +1,8 @@
 site_name: EHRCON26 Clinical Modelling Workshop
+nav:
+    - Overview: README.md
+    - Getting started: getting-started.md
+    - Exercises: exercises.md
 theme:
     name: material
     palette:
@@ -20,5 +24,6 @@ markdown_extensions:
     - admonition
     - pymdownx.details
     - pymdownx.superfences
+    - attr_list
 extra_css:
     - stylesheets/extra.css
