@@ -20,12 +20,12 @@ Renaming and constraining the archetype to just what's needed keeps the form foc
 
 Patients often have more than one allergy, so the archetype needs to repeat; reusing the 'Adverse reaction event' CLUSTER for each reaction, rather than modelling it again, is the reuse principle in action, and making the reaction detail mandatory avoids an unsafe blank entry for a safety-critical field.
 
-- Add the `Adverse reaction risk EVALUATION archetype` after 'Problem/Diagnosis'
+- Add the `Adverse reaction risk EVALUATION archetype` under the Allergies section
 - Set its occurrences to 0..* to allow multiple allergies to be recorded
-- Constrain out everything apart from 'Substance'
+- Constrain out everything apart from 'Substance'and rename it to 'Allergy'
 - Add the `Adverse reaction event CLUSTER archetype` to the 'Reaction event summary' slot
-- Constrain out everything apart from 'Specific substance' and 'Manifestation'
-- Rename ‘Manifestation’ to ‘Reaction details’ and make it mandatory
+- Constrain out everything apart from 'Manifestation'
+- Rename ‘Manifestation’ to ‘Reaction’ and make it mandatory
 
 ### 1.3 Medication Order
 
@@ -38,7 +38,7 @@ Cloning an existing data element instead of authoring a new one shows how a sing
 
 Pulling in a second OBSERVATION archetype (pulse oximetry) alongside blood pressure shows how a template section aggregates several independent archetypes into one clinical picture, while making systolic/diastolic mandatory demonstrates enforcing data completeness at the template level without changing the archetype itself.
 
-- Add the `Pulse oximetry OBSERVATION archetype` into the Vital Signs template section
+- Add the `Pulse oximetry OBSERVATION archetype` into the Vital Signs template section, after 'Blood pressure'
 - Constrain out everything apart from 'SpO2' ratio
 - Make 'Systolic' and 'Diastolic' in 'Blood pressure' mandatory
 
