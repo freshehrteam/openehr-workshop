@@ -43,7 +43,7 @@ A few terms used throughout this workshop:
 - Go to [https://tools.openehr.org/designer](https://tools.openehr.org/designer/) (best opened in a new tab)
 - Login: `freshehr_training`
 - Password: `ad4freshtraining`
-- Choose the repository allocated to you – (A) Aberdeen, (B) Brechin, (C) Crieff, (D) Dundee, (E) Ellon, (F) Forfar, (G) Glasgow, (H) Hamilton, (I) Irvine, (J) Jedburgh
+- Choose the repository allocated to you – (A) Amsterdam, (B) Barcelona, (C) Copenhagen, (D) Dublin, (E) Edinburgh, (F) Frankfurt, (G) Geneva
 - Select `Nursing Admission Assessment STARTER.v0` in the list of templates
 - Open the original ['Nursing Admission Assessment paper form'](Nursing%20Admission%20Assessment.pdf) (best opened in a new tab)
 
