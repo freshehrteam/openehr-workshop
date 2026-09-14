@@ -1,6 +1,6 @@
 # Practical modelling tasks
 
-Make sure you've completed the [Getting started](getting-started.md) steps before starting these exercises.
+These are the practical modelling tasks for the Practical Clinical Modelling Workshop. Make sure you've completed the [Getting started](getting-started.md) steps before starting these exercises.
 
 ## Exercise 1: Tidy and extend the starter template
 

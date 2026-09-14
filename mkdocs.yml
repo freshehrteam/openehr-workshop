@@ -1,10 +1,14 @@
 site_name: EHRCON26 Clinical Modelling Workshop
 nav:
     - Overview: README.md
-    - Getting started: getting-started.md
-    - Exercises: exercises.md
+    - Practical Clinical Modelling Workshop:
+        - Getting started: getting-started.md
+        - Exercises: exercises.md
+    - Unconference: unconference.md
 theme:
     name: material
+    features:
+        - navigation.footer
     palette:
         - media: "(prefers-color-scheme: light)"
           scheme: default
