@@ -43,8 +43,8 @@ Participants should:
 
 A few terms used throughout this workshop:
 
-- **Archetype** – a reusable, inclusive data model for a single clinical concept (e.g. 'Blood pressure', 'Problem/Diagnosis'), expressed in ADL. Archetypes are designed to cover every way a concept could ever be recorded, so a single one can be reused across many contexts.
-- **Template** – a composition of archetypes constrained and arranged for a specific clinical use case (e.g. a nursing admission form). Templates narrow archetypes down to what's actually needed for that use case.
+- **Archetype** – a reusable, inclusive data model for a single clinical concept (e.g. 'Blood pressure', 'Problem/Diagnosis'). Archetypes are designed to cover every way a concept could ever be recorded, so a single one can be reused across many contexts.
+- **Template** – a composition of archetypes constrained and arranged for a specific clinical use case (e.g. a nursing admission form). Templates narrow archetypes down to what's actually needed.
 - **CKM (Clinical Knowledge Manager)** – the online repository where archetypes and templates are published, reviewed, and governed, so authors can search for and reuse existing clinical models instead of creating new ones.
 - **Archetype Designer** – the web-based tool used in this workshop to build templates from archetypes, and to author new local archetypes.
 - **Slot** – a placeholder within an archetype or template that can be filled with one or more other archetypes (e.g. a 'Reaction event summary' slot filled with an 'Adverse reaction event' CLUSTER archetype).
@@ -80,6 +80,9 @@ Renaming and constraining the archetype to just what's needed keeps the form foc
 
 - Rename the `Problem/Diagnosis EVALUATION archetype` to 'Main Diagnosis'
 - Constrain out everything apart from 'Problem/Diagnosis name'
+
+!!! tip
+    You can use the Form tab (on top next to Definition) to get an indication of what your form looks like!
 
 ##### 1.2 Adverse Reaction Risk
 
