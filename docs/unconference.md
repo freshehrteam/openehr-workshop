@@ -5,9 +5,11 @@ The Unconference Sessions run alongside the Practical Clinical Modelling Worksho
 
 ## Background
 
-The format of these sessions follow the very successful openEHR modelling Highmed UnConference organised by Antje Wulf in Jan 2026.
+The format of these sessions follow the very successful openEHR modelling Highmed Unconference organised by Antje Wulf in Jan 2026.
 
-Listed below are the topics requested by the participants in advance, grouped into some borad themes, including some overlapping questions but this is designed as a highly interactive exercise, where participants may offer as a may answers/ experiences as questions
+Listed below are the topics requested by the participants in advance, grouped into some broad themes, including some overlapping questions.
+
+This is intended to be a highly interactive exercise, where participants may offer as a many answers/experiences as questions.
 
 The first task of the day will be to review the list of topics and self-organise into breakout groups with supporting convenors.
 
@@ -29,7 +31,7 @@ We will ask you to indicate your preferred groups to help balance numbers but yo
 
 ### External integration and context
 
-- External Care context — patients, encounters, caregivers, self-care
+- External care context — patients, encounters, caregivers, self-care
 
   - Connecting timelines with patients, encounters, caregivers, self-care, clinics and complex inpatient/outpatient prescriptions.
   
@@ -93,5 +95,3 @@ We will ask you to indicate your preferred groups to help balance numbers but yo
 - Modelling PREMS
 
 - Coded-text value sets in QUANTITY fields such as dosage;
-
-
