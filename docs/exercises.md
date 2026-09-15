@@ -22,7 +22,7 @@ Patients often have more than one allergy, so the archetype needs to repeat; reu
 
 - Add the `Adverse reaction risk EVALUATION archetype` under the Allergies section
 - Set its occurrences to 0..* to allow multiple allergies to be recorded
-- Constrain out everything apart from 'Substance'and rename it to 'Allergy'
+- Constrain out everything apart from 'Substance' and rename it to 'Allergy'
 - Add the `Adverse reaction event CLUSTER archetype` to the 'Reaction event summary' slot
 - Constrain out everything apart from 'Manifestation'
 - Rename ‘Manifestation’ to ‘Reaction’ and make it mandatory
@@ -88,7 +88,7 @@ There is no suitable existing archetype in the CKM for this data, so, having exh
 - General Practitioner
 - Bed Bureau
 - Consultant Clinic
-- Other: `____________________________`
+- Other
 
 ### 2.4 Additional Help needed
 
