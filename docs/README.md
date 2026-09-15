@@ -6,7 +6,8 @@
 
 https://freshehrteam.github.io/openehr-workshop/
 
-![QR code linking to this site](images/qr-code.svg){: .center-image style="width:120px" }
+![QR code linking to this site](images/qr-code.svg#only-light){: .center-image style="width:120px" }
+![QR code linking to this site](images/qr-code-dark.svg#only-dark){: .center-image style="width:120px" }
 
 ## Agenda
 
@@ -21,3 +22,6 @@ https://freshehrteam.github.io/openehr-workshop/
 | 12:00 - 13:00 | **Lunch** |
 
 Head to [Getting started](getting-started.md) for the Practical Clinical Modelling Workshop, or see the [Unconference](unconference.md) sessions.
+
+!!! info "Further reading"
+    [Clinical Content Models](https://openehr.atlassian.net/wiki/x/cQAt) – The openEHR wiki overview of clinical models, archetypes, templates, terminology, and clinical knowledge governance
