@@ -6,7 +6,8 @@
 
 https://freshehrteam.github.io/openehr-workshop/
 
-![QR code linking to this site](images/qr-code.svg){: .center-image style="width:120px" }
+![QR code linking to this site](images/qr-code.svg#only-light){: .center-image style="width:120px" }
+![QR code linking to this site](images/qr-code-dark.svg#only-dark){: .center-image style="width:120px" }
 
 ## Agenda
 
