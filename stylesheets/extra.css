@@ -6,3 +6,11 @@
     display: block;
     margin: 0 auto;
 }
+
+img[src$="#only-dark"] {
+    display: none;
+}
+
+[data-md-color-scheme="slate"] img[src$="#only-dark"] {
+    display: block;
+}
