@@ -17,6 +17,8 @@ We will ask you to indicate your preferred groups to help balance numbers but yo
 
 ## Candidate topics
 
+![Topics overview](images/unconference-topics.png)
+
 ### ADL2 and template naming/versioning
 
 - Archetype and template design — specialisations, naming conventions and ADL2 namespaces
