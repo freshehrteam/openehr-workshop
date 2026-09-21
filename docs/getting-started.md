@@ -1,6 +1,6 @@
 # Practical Clinical Modelling Workshop
 
-In this session, we will go further into the key ideas behind archetypes and templates.
+In this session, we will go further into the key ideas behind archetypes and templates. You can find the slides with information [here](openEHR-modelling-basics.pptx).
 
 There will be a practical introduction to the openEHR Clinical Knowledge Manager and Archetype Designer clinical modelling tool, via a worked example based on a real clinical dataset.
 
