@@ -41,8 +41,8 @@ A few terms used throughout this workshop:
 
 - Open a web browser (Chrome or Firefox works best)
 - Go to [https://tools.openehr.org/designer](https://tools.openehr.org/designer/) (best opened in a new tab)
-- Login: `available_on_workshop_day`
-- Password: `available_on_workshop_day`
+- Login: `freshehr_training`
+- Password: `ad4freshtraining`
 - Choose the repository allocated to you – (A) Amsterdam, (B) Barcelona, (C) Copenhagen, (D) Dublin, (E) Edinburgh, (F) Frankfurt, (G) Geneva
 - Select `Nursing Admission Assessment STARTER.v0` in the list of templates
 - Open the original ['Nursing Admission Assessment paper form'](Nursing%20Admission%20Assessment.pdf) (best opened in a new tab)
