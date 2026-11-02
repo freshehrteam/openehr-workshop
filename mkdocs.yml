@@ -1,4 +1,5 @@
 site_name: EHRCON26 Clinical Modelling Workshop
+copyright: 'Copyright &copy; 2026 freshEHR Clinical Informatics Ltd. Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>'
 nav:
     - Overview: README.md
     - Practical Clinical Modelling Workshop:

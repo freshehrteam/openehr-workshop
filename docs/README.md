@@ -25,3 +25,7 @@ Head to [Getting started](getting-started.md) for the Practical Clinical Modelli
 
 !!! info "Further reading"
     [Clinical Content Models](https://openehr.atlassian.net/wiki/x/cQAt) – The openEHR wiki overview of clinical models, archetypes, templates, terminology, and clinical knowledge governance
+
+---
+
+© 2026 freshEHR Clinical Informatics Ltd. This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
